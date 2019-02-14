@@ -2,5 +2,5 @@
 Created Android famous 2048 game in C++ Language using borland graphics
 
 
-![image](https://github.com/varen1994/Screen Shot1.png})
-![image](https://github.com/varen1994/Screen Shot2.png})
+![ScreenShot1](https://github.com/varen1994/ScreenShot1.png})
+![ScreenShot2](https://github.com/varen1994/ScreenShot2.png})
